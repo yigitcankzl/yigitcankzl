@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitcankzl&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcankzl" /> </p>
 
-- 🔭 I’m currently working on [language application](https://github.com/yigitcankzl/app)
+- 🔭 I’m currently working on [a language learning app that helps users practice vocabulary and grammar.](https://github.com/yigitcankzl/app)
 
-- 🌱 I’m currently learning **flutter, firebase, auto trading**
+- 🌱 I’m currently learning **flutter, firebase, algorithmic trading with C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yigitcankzl](https://github.com/yigitcankzl)
 
